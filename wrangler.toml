@@ -1,0 +1,6 @@
+name = "blackroad-landing-worker"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+[vars]
+PAGES_URL = "https://blackroad-io.pages.dev"
